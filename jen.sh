@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello world, I am Remarkable da!!"
+echo "Hello world, I am Remarkable!"
